@@ -1,0 +1,2 @@
+# hackcamera
+HACK_CAMERA
